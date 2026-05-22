@@ -6,7 +6,7 @@ A premium, high-performance interactive WebGL fluid simulation background compon
 
 ## 📸 Preview
 
-![Liquid Ether Fluid Simulation Background Preview](<img width="1897" height="863" alt="Image" src="https://github.com/user-attachments/assets/8b3ffbe9-ed29-4ed8-af08-1abcc3175c5d" />)
+![Liquid Ether Fluid Simulation Background Preview] <img width="1897" height="863" alt="Image" src="https://github.com/user-attachments/assets/5958054a-d764-4090-a822-234bfd0c0845" />
 
 
 ---
